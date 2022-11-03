@@ -1,0 +1,25 @@
+title: 사무실에서 적는 일기
+author: swk
+subtitle: 절망에 가득찬 사업가의 일기
+
+url: "https://veduardovich.github.io/"
+baseurl: "/parchment"
+
+footer_only_homepage: true
+footer_url: "xxx"
+footer_text: "UFO"
+
+# profile-picture: assets/profile.png
+# favicon_location: assets/favicon.ico
+
+permalink: /:year-:month-:day-:title/
+sass:
+    style: compressed
+    sass_dir: css
+
+navbar:
+  - name: "About"
+    link: "about"
+  - name: "Resume"
+    # absolute-link: "https://rahul-bothra.github.io/CV.pdf"
+    absolute-link: "https://himion.com"
