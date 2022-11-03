@@ -1,1 +1,0 @@
-# vEduardovich.github.io
