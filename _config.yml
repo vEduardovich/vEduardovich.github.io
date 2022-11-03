@@ -30,10 +30,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  vEduardovich
 
+# 아래 빌드 세팅과 플러긴을 주석처리하고 _includes에 head.html을 만들어 직접 css를 적용하니 내가 만든게 적용된다.
 # Build settings
-# theme: minima
-# plugins:
-#   - jekyll-feed
+theme: minima
+plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
