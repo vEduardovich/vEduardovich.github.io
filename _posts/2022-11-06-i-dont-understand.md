@@ -9,6 +9,6 @@ tags: [cat]
 
 정말로, 정말로 지독하다.
 
-<video width="300"  controls>
+<video width="300" controls autoplay>
   <source src="../assets/mp4/Sequence 02_1.mp4" type="video/mp4">
 </video>
