@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2222
+title: 인공지능을 공부해야지
 subtitle: 그리고 욕도 해야지
 tags: [diary, ai]
 ---
