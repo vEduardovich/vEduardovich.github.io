@@ -5,8 +5,10 @@ subtitle: 지옥에서 절망중인 개발자의 사업로그
 url: "https://veduardovich.github.io/"
 baseurl: ""
 
+futrue: true
+
 footer_only_homepage: true
-footer_url: "orisor.or@gmail.com"
+footer_url: ""
 footer_text: "지옥에서 절망중인 개발자의 사업로그"
 
 profile-picture: assets/profile.png
